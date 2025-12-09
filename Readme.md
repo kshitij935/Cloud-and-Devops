@@ -1,7 +1,7 @@
 # 🧮 Simple Python Calculator
 
 A **command-line calculator application** built in Python that allows users to perform basic arithmetic operations including **Addition**, **Subtraction**, **Multiplication**, and **Division**.  
-This project is designed for beginners learning Python programming and helps understand **functions, loops, conditionals**, and **user input handling**.
+This project is designed for the coders who just started their coding life and helps understand **functions, loops, conditionals**, and **user input handling**.
 
 ---
 
